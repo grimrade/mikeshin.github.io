@@ -4,7 +4,7 @@
 Автомаляр красит автомобиль на заказ краской с помощью краскопульта и компрессора.
 ![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/model_Mikeshin.png)
 ### Диаграмма классов
-![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/class%20Diagram.png)
+
 
 https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/class%20Diagram.txt
 ### Диаграмма прецедентов
