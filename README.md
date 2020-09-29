@@ -6,7 +6,7 @@
 ### Диаграмма классов
 ![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/class%20Diagram.png)
 
-https://github.com/grimrade/mikeshin.github.ioblob/master/lab1/class%20Diagram.txt
+https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/class%20Diagram.txt
 ### Диаграмма прецедентов
 ![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/use%20case%20Diagram.png)
 https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/use%20case%20Diagram.txt
