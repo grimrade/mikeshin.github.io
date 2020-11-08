@@ -1,15 +1,1 @@
-# Отчёт о лабораторных работах
-# Студент группы ИДБ-17-05 Микешин С.Э.
-
-##  Лабораторная работа №1
-Автомаляр красит автомобиль на заказ краской с помощью краскопульта и компрессора.
-![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/model_Mikeshin.png)
-### Диаграмма классов
-![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/class%20Diagram.png)
-
-https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/class%20Diagram.txt
-### Диаграмма прецедентов
-![none](https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/use%20case%20Diagram.png)
-https://github.com/grimrade/mikeshin.github.io/blob/master/lab1/use%20case%20Diagram.txt
-
-##  Лабораторная работа №2
+https://github.com/grimrade/mikeshin.github.io/wiki/%D0%9E%D1%82%D1%87%D1%91%D1%82-%D0%BF%D0%BE-%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%BC-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BC-1,-2,-3
