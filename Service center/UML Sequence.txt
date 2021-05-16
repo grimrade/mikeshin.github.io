@@ -1,0 +1,37 @@
+   
+@startuml
+skinparam monochrome true
+
+actor Менеджер as user
+participant "Специальное ПО АСУ" as system
+database "База данных 1С" as base
+
+user -> system : Создание/изменение заказа/клиента/номенклатуры
+activate system
+system -> base : Запрос необходимых данных
+activate base
+base -> system : Список данных
+user <- system : Отображение списка
+user -> system : Ввод необходимых данных
+system -> system : Проверка корректности ввода
+system -> base : Сохранение
+system <- base : Результат записи
+deactivate base
+system -> user : Созданный/измененный заказ/клиент/номенклатура
+deactivate system
+user -> system : Печать
+activate system
+system -> base : Запрос печатной формы
+activate base
+system <- base : Печатная форма
+deactivate base
+user <- system : Распечатанный документ
+deactivate system
+user -> system : Формирование аналитического отчета
+activate system
+system -> base : Запрос печатной формы
+activate base
+system <- base : Запрос срезов
+deactivate base
+user <- system : Данные для отчета
+deactivate system
